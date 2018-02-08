@@ -1,0 +1,18 @@
+Github link:-
+-----------------
+https://github.com/souravkitkat2706/Portfolio
+
+
+Github page link:-
+-----------------
+https://souravkitkat2706.github.io/portfoliohosting/
+
+
+Details:-
+-------------
+->this github link contains the entire portfolio.
+->the "portfolio.html" is the main web page which is to be opened
+->The pattern folder contains the "mostly fluid" responsive pattern
+->the other pattern folder inside the pattern folder contain all the remaining pattern.
+->I have also included the responsive design pattern in the form of mini projects in my portfolio, 
+	it can be viewed there also.
